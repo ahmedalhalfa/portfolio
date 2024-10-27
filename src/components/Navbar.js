@@ -59,7 +59,7 @@ function NavBar() {
             </Nav.Item>
 
             <Nav.Item>
-              <Nav.Link href="https://blogs.halfa.site/" target="_blank" rel="noreferrer">
+              <Nav.Link href="https://bitsandbytes.halfa.site/" target="_blank" rel="noreferrer">
                 <ImBlog style={{ marginBottom: '2px' }} /> Blogs
               </Nav.Link>
             </Nav.Item>
